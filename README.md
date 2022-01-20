@@ -4,15 +4,14 @@ You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-I am a final year PhD candidate in the [Department of Mathematics](https://www-math.umd.edu/) at the University of Maryland College Park, under the supervision of [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/).
+I am a final year PhD candidate in the [Department of Mathematics](https://www-math.umd.edu/) at the University of Maryland College Park, under the supervision of Associate Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/).
 
 My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and High-dimensional Data Analysis.
 
 # About
+During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate (CISD), DEVCOM Army Research Laboratory supervised by Jade Freeman.
+Since 2019, I have been focusing on the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at UMASS and worked in graph matching problems with my current advisor Vince Lyzinski. I received a B.Sc. in Applied Mathematics from the National & Kapodistrian University of Athens, Greece.
 
-<!--From 2018 to 2021, I was a postdoctoral researcher in the Center for Imaging Science at Johns Hopkins University, and in the Department of Mathematics at the University of Maryland, College Park, working with Professor Vince Lyzinski at UMD, and with Professors Carey E. Priebe and Joshua T. Vogelstein at JHU.
-
-I completed my PhD in Statistics at the University of Michigan, advised by Professor Liza Levina. I received a B.Sc. in Applied Mathematics and a B.Sc. in Computer Engineering from the Mexico Autonomous Institute of Technology (ITAM).-->
 # Papers
 
 # Conferences / Talks
