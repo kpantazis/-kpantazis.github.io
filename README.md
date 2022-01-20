@@ -3,9 +3,6 @@
 You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
----
-layout: default
----
 
 
 I am a final year PhD candidate in the [Department of Mathematics](https://www-math.umd.edu/) at the University of Maryland College Park, under the supervision of Associate Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/).
