@@ -15,28 +15,34 @@ Since 2019, I have been focusing on the statistical analysis of joint spectral e
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
 
+   
+# Conferences / Talks
+- Invited talk at National & Kapodistrian UoA [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
+- 
+- [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882)
+Virtual
+
+- DEVCOM ARL Summer Student Symposium Virtual
+
+- [NETWORKS 2021: A Joint Sunbelt and NetSci Conference](https://networks2021.net)
+Virtual
+
+
+
+
 # Papers
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en).
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
    Konstantinos Pantazis, Avanti Athreya, William N. Frost, Evan S. Hill, and Vince Lyzinski
-   _Journal of Machine Learning Research (JMLR)_ 2020, submitted
+   _Journal of Machine Learning Research (JMLR)_ 2020, submitted.
    [preprint](https://arxiv.org/abs/2008.00163).
    
 4. **“Multiplex graph matching matched filters”** 
    Konstantinos Pantazis, Daniel L. Sussman, Youngser Park, Zhirui Li, Carey E. Priebe, and Vince Lyzinski
-   _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019
+   _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
    [preprint](https://arxiv.org/abs/1908.02572).
    
-# Conferences / Talks
-- Invited talk at National & Kapodistrian UoA [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
-- 2021 Joint Statistical Meetings (JSM)
-Virtual
-- DEVCOM ARL Summer Student Symposium
-Virtual
-- NETWORKS 2021: A Joint Sunbelt and NetSci Conference
-Virtual
-
 # Teaching
 
 [CV](docs/CV_KP-converted.pdf)
