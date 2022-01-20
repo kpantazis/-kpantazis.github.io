@@ -47,6 +47,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    
 # Teaching
 
+[LinkedIn](linkedin.com/in/konstantinos-pantazis-590748196)
 
 
 # Extracurricular
