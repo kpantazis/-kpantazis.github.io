@@ -62,6 +62,8 @@ Copyright (c) 2020 My name
 Copyright (c) 2020 2018 GitHub, Inc. and contributors
 
 ...
+---
+© Copyright 2022 Konstantinos Pantazis. Powered by Jekyll with minimal theme. Hosted by GitHub Pages. Last updated: January 20, 2022.
 <!--- Bulleted
 - List
 ---
