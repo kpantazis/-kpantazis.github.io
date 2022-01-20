@@ -58,9 +58,6 @@ HVFD
 PATC
 DMV area
 
-* * *
-
-© Copyright 2022 Konstantinos Pantazis. Powered by Jekyll with minimal theme. Hosted by GitHub Pages. Last updated: January 20, 2022.
 <!--- Bulleted
 - List
 ---
@@ -79,3 +76,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
+
+* * *
+
+
+
+
+© Copyright 2022 Konstantinos Pantazis. Powered by Jekyll with minimal theme. Hosted by GitHub Pages. Last updated: January 20, 2022.
+
