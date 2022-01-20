@@ -4,8 +4,15 @@ You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-I am a graduate student at the University of Maryland College Park, [Department of Mathematics & Statistics](https://www-math.umd.edu/).
-My research interests include multiscale network inference, multiple graph matching and high-dimensional data analysis.
+I am a final year PhD candidate at the University of Maryland College Park, [Department of Mathematics](https://www-math.umd.edu/).
+
+My main research ares of interest are multiscale network inference, multiple graph matching and high-dimensional data analysis.
+
+# About
+
+From 2018 to 2021, I was a postdoctoral researcher in the Center for Imaging Science at Johns Hopkins University, and in the Department of Mathematics at the University of Maryland, College Park, working with Professor Vince Lyzinski at UMD, and with Professors Carey E. Priebe and Joshua T. Vogelstein at JHU.
+
+I completed my PhD in Statistics at the University of Michigan, advised by Professor Liza Levina. I received a B.Sc. in Applied Mathematics and a B.Sc. in Computer Engineering from the Mexico Autonomous Institute of Technology (ITAM).
 # Header 1
 ## Header 2
 ### Header 3
