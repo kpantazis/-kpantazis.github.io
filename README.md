@@ -54,6 +54,14 @@ HVFD
 PATC
 DMV area
 
+// ./LICENSE
+
+MIT License
+
+Copyright (c) 2020 My name
+Copyright (c) 2020 2018 GitHub, Inc. and contributors
+
+...
 <!--- Bulleted
 - List
 ---
