@@ -14,7 +14,7 @@ During Summer 2021, I was a research intern at the Computational and Information
 Since 2019, I have been focusing on the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my current advisor Vince Lyzinski.
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
-
+ 
    
 # Conferences / Talks
  Invited talk at National & Kapodistrian UoA [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
