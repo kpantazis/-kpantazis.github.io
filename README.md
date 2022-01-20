@@ -49,8 +49,7 @@ Virtual
 [CV](docs/CV_KP-converted.pdf)
 
 
-
-
+# Extracurricular
 
 
 
