@@ -13,10 +13,18 @@ During Summer 2021, I was a research intern at the Computational and Information
 Since 2019, I have been focusing on the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at UMASS and worked in graph matching problems with my current advisor Vince Lyzinski. I received a B.Sc. in Applied Mathematics from the National & Kapodistrian University of Athens, Greece.
 
 # Papers
-
+1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks.”**
+   Konstantinos Pantazis, Avanti Athreya, William N. Frost, Evan S. Hill, and Vince Lyzinski
+   Submitted to _Journal of Machine Learning Research (JMLR)_, 2020.
+   
+4. **“Multiplex graph matching matched filters.”** 
+   Konstantinos Pantazis, Daniel L. Sussman, Youngser Park, Carey E. Priebe, and Vince Lyzinski. 
+   _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
+   
 # Conferences / Talks
+EKPA: [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
 
-# Teachinf
+# Teaching
 - Bulleted
 - List
 ---
