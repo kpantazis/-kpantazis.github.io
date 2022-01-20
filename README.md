@@ -39,7 +39,7 @@ Virtual
 
 # Teaching
 
-
+[CV](docs/CV_KP_converted.pdf)
 
 
 
