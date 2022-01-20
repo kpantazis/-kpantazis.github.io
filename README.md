@@ -22,9 +22,9 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 - [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882)
 Virtual
 
-- DEVCOM ARL Summer Student Symposium Virtual
+- [DEVCOM ARL Summer Student Symposium Virtual](docs/ARL Poster Symposium 2021 -Konstantinos Pantazis.pdf)
 
-- [NETWORKS 2021: A Joint Sunbelt and NetSci Conference](https://networks2021.net)
+- [NETWORKS 2021: A Joint Sunbelt and NetSci Conference]
 Virtual
 
 
