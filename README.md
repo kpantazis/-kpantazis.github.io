@@ -17,11 +17,15 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
    
 # Conferences / Talks
-- Invited talk at National & Kapodistrian UoA [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
-- 
+<!--- Invited talk at National & Kapodistrian UoA [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
+- [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882)
+Virtual
+
+- [DEVCOM ARL Summer Student Symposium Virtual](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
+
 
 - NETWORKS 2021: A Joint Sunbelt and NetSci Conference
-Virtual
+Virtual-->
 
 
 
