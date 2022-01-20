@@ -15,7 +15,7 @@ Since 2019, I have been focusing on the statistical analysis of joint spectral e
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
  
- ### For more information, please check out my [CV](docs/CV_KP-converted.pdf).
+### For more information, please check out my [CV](docs/CV_KP-converted.pdf).
 
 # Conferences / Talks
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
