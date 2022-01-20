@@ -17,16 +17,18 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
  
    
 # Conferences / Talks
- Invited talk at National & Kapodistrian UoA [EKPA](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
+- **December 10, 2021** Talk at National & Kapodistrian University of Athens. [Announcement](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
  
-- [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882)
- [[Virtual presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
+- **August 12, 2021** [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882). Virtual.
 
-- [DEVCOM ARL Summer Student Symposium Virtual](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
+ [[Video presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
+
+- **August 12, 2021** DEVCOM ARL Summer Student Symposium Virtual. Virtual.
+
+  [Poster](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
 
 
-- NETWORKS 2021: A Joint Sunbelt and NetSci Conference
-Virtual
+- **July 10, 2021** NETWORKS 2021: A Joint Sunbelt and NetSci Conference. Virtual.
 
 
 
