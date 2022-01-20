@@ -47,6 +47,13 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    
 # Teaching
 
+September 2021 -- Present Teaching Assistant, University of Maryland, College Park
+Grading the graduate course MATH630-Real Analysis I and the undergraduate course MATH416-Applied Harmonic Analysis: An Introduction to Signal Processing.
+September 2019 – May 2021 Teaching Assistant, University of Maryland, College Park
+Lead discussions for the upper-level undergraduate courses MATH461-Linear Algebra for Scientists & Engineers and STAT400 Applied Probability and Statistics (twice). Graded the graduate course MATH630-Real Analysis I.
+September 2017 – May 2018 Teaching Assistant, University of Massachusetts, Amherst
+Lead discussions for the undergraduate course of Differential Equations.
+
 [LinkedIn](linkedin.com/in/konstantinos-pantazis-590748196)
 
 
