@@ -4,9 +4,8 @@ You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.githu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
-```markdown
-Syntax highlighted code block
-```
+I am a graduate student at the University of Maryland College Park, [Department of Mathematics & Statistics](https://www-math.umd.edu/).
+My research interests include multiscale network inference, multiple graph matching and high-dimensional data analysis.
 # Header 1
 ## Header 2
 ### Header 3
