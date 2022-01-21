@@ -64,16 +64,23 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022 (12 weeks)** &nbsp; &nbsp;  Research Intern: Graph Matching (Microsoft)
+* **Summer 2022 (12 weeks) &nbsp; &nbsp;  Research Intern: Graph Matching (Microsoft)**
+
+Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
 * **Summer 2021 (12 weeks)** &nbsp; &nbsp;  CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD
 
+Focused on developing a learning algorithm for collaboratively prioritizing and filtering information object in dynamic contextual environment.
 
 # Extracurricular
 
-HVFD
-PATC
-DMV area
+### Volunteering
+- I am a probationary / associate member of the [Hyattsville Volunteer Fire Department, Inc](https://hvfd.com/) since October 2021.
+
+- PATC
+
+### Well-being activities
+- DMV area
 
 <!--- Bulleted
 - List
