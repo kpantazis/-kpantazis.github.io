@@ -66,11 +66,11 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 * **Summer 2022 (12 weeks) &nbsp; &nbsp;  Research Intern: Graph Matching (Microsoft)**
 
-Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
+    Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
-* **Summer 2021 (12 weeks)** &nbsp; &nbsp;  CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD
+* **Summer 2021 (12 weeks)** &nbsp; &nbsp;  <u> CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD <u>
 
-Focused on developing a learning algorithm for collaboratively prioritizing and filtering information object in dynamic contextual environment.
+    Focused on developing a learning algorithm for collaboratively prioritizing and filtering information object in dynamic contextual environment.
 
 # Extracurricular
 
@@ -106,5 +106,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with minimal theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: January 21, 2022.
+© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: January 21, 2022.
 
