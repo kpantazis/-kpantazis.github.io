@@ -62,6 +62,12 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 - Applied Harmonic Analysis: An Introduction to Signal Processing (MATH416), Fall 2021-->
 
+# Internships
+
+* **Summer 2022 (12 weeks)** &nbsp; &nbsp;  Research Intern: Graph Matching (Microsoft)
+
+* **Summer 2021 (12 weeks)** &nbsp; &nbsp;  CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD
+
 
 # Extracurricular
 
