@@ -90,6 +90,11 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 1. Numbered
 2. List
 
+<details>
+           <summary>Title 1</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
+
 [Link](url) and ![Image](src)
 
 | Syntax | Description |
