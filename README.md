@@ -64,7 +64,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks)
+* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp;  &nbsp;  (12 weeks)
 
     Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
@@ -81,7 +81,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 ### Well-being activities
  
-- If you are living (or visiting) the DMV area and you are interested in spending your leisure time exploring nearby mountains or rivers via hiking, running, cycling, rock climbing let me know! :smiley:
+- If you are living in (or visiting) the DMV area and you are interested in spending your leisure time exploring nearby mountains or rivers via hiking, running, cycling, rock climbing or any other activity, let me know! 😁
 
 <!--- Bulleted
 - List
