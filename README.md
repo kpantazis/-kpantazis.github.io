@@ -64,7 +64,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp;  &nbsp;  (12 weeks)
+* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp;  &nbsp; &nbsp; (12 weeks)
 
     Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
