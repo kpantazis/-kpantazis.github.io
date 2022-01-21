@@ -16,8 +16,7 @@ Since 2019, I have been focusing on the statistical analysis of joint spectral e
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
  
-### For more information, please check out my [CV](docs/CV_KP-converted.pdf). Also, connect with me on
-[LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196).
+### For more information, please check out my [CV](docs/CV_KP-converted.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196).
 
 # Conferences / Talks
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
@@ -27,11 +26,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 - **August 12, 2021**   &nbsp; &nbsp; DEVCOM ARL Summer Student Symposium. Virtual.
   [[Poster]](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
 
-
 - **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference. Virtual.
-
-
-
 
 # Papers
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en).
