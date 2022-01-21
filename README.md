@@ -41,9 +41,10 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
    [preprint](https://arxiv.org/abs/1908.02572).
    
-# Teaching (TA instructor)
+# Teaching 
 
-## Discussion Sections
+## Discussion Sections (TA instructor)
+
 ### University of Maryland College Park
 
 - Introduction to Linear Algebra (MATH240), Spring 2022
