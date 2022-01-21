@@ -45,16 +45,29 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
    [preprint](https://arxiv.org/abs/1908.02572).
    
-# Teaching
+# Teaching (TA instructor)
 
-September 2021 -- Present Teaching Assistant, University of Maryland, College Park
-Grading the graduate course MATH630-Real Analysis I and the undergraduate course MATH416-Applied Harmonic Analysis: An Introduction to Signal Processing.
-September 2019 – May 2021 Teaching Assistant, University of Maryland, College Park
-Lead discussions for the upper-level undergraduate courses MATH461-Linear Algebra for Scientists & Engineers and STAT400 Applied Probability and Statistics (twice). Graded the graduate course MATH630-Real Analysis I.
-September 2017 – May 2018 Teaching Assistant, University of Massachusetts, Amherst
-Lead discussions for the undergraduate course of Differential Equations.
+## Discussion Sections
+### University of Maryland College Park
 
-[LinkedIn](linkedin.com/in/konstantinos-pantazis-590748196)
+- Introduction to Linear Algebra (MATH240), Spring 2022
+
+- Applied Probability and Statistics (STAT400), Spring 2020 & 2021
+
+- Linear Algebra for Scientists & Engineers (MATH461), Fall 2019
+
+### University of Massachusetts, Amherst
+
+- Ordinary Differential Equation (MATH331), Fall 2017
+
+## Grading
+
+- Real Analysis I (MATH630, graduate course), Fall 2020 & 2021
+
+- Applied Harmonic Analysis: An Introduction to Signal Processing (MATH416), Fall 2021
+
+
+[LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196)
 
 
 # Extracurricular
