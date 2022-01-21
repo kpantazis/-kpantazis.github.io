@@ -64,11 +64,11 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022 (12 weeks) &nbsp; &nbsp;  Research Intern: Graph Matching (Microsoft)**
+* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u> (12 weeks)
 
     Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
-* **Summer 2021 (12 weeks)** &nbsp; &nbsp;  <u> CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD <u>
+* **Summer 2021** &nbsp; &nbsp;  <u> CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD <u> (12 weeks)
 
     Focused on developing a learning algorithm for collaboratively prioritizing and filtering information object in dynamic contextual environment.
 
