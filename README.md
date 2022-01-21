@@ -64,11 +64,11 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u> (12 weeks)
+* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks)
 
     Focus on modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
-* **Summer 2021** &nbsp; &nbsp;  <u> CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD <u> (12 weeks)
+* **Summer 2021** &nbsp; &nbsp;  <u> CCDC-ARL Summer Student Experience: Computational and Information Sciences Directorate, Adelphi MD <u>  &nbsp; (12 weeks)
 
     Focused on developing a learning algorithm for collaboratively prioritizing and filtering information object in dynamic contextual environment.
 
@@ -77,10 +77,11 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 ### Volunteering
 - I am a probationary / associate member of the [Hyattsville Volunteer Fire Department, Inc](https://hvfd.com/) since October 2021.
 
-- PATC
+- I am an active member of [Potomac Appalachian Trail Club](https://www.patc.net/) since 2020. During Spring 2021, I was a crew member for trail maintenance at [Sugarloaf Mountain, MD](https://sugarloafmd.com/). I am excited for Spring 2022 too.
 
 ### Well-being activities
-- DMV area
+ 
+- If you are living (or visiting) the DMV area and you are interested in spending your leisure time exploring nearby mountains or rivers via hiking, running, cycling, rock climbing let me know! :smiley:
 
 <!--- Bulleted
 - List
