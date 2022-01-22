@@ -12,7 +12,7 @@ My research areas of interest include Multiscale Statistical Network Inference, 
 # About
 During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Jade Freeman.
 
-Since 2019, I have been focusing on the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my current advisor Vince Lyzinski.
+Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my current advisor Vince Lyzinski.
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
  
