@@ -82,7 +82,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 ### Well-being activities
  
-- If you are living in (or visiting) the [DMV area](https://en.wikipedia.org/wiki/Washington_metropolitan_area) and you are interested in spending your leisure time exploring nearby mountains or rivers via hiking, running, cycling, rock climbing or any other activity, let me know! 😁
+- If you are living in (or visiting) the [DMV area](https://en.wikipedia.org/wiki/Washington_metropolitan_area) and you are interested in spending your leisure time exploring nearby mountains or rivers via hiking, running, cycling, rock climbing or any other activity, let me know! Also, follow me on [Strava](https://www.strava.com/athletes/87778247). 😁
 
 <!--- Bulleted
 - List
