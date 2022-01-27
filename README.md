@@ -29,7 +29,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 - **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference. Virtual.
 
 # Papers
-### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en).
+### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and / or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
    Konstantinos Pantazis, Avanti Athreya, William N. Frost, Evan S. Hill, and Vince Lyzinski
