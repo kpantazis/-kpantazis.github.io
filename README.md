@@ -33,12 +33,14 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
    Pantazis, K., Athreya, A., Arroyo, J., Frost, W.N., Hill, E.S., and Lyzinski, V.
+   
    _Journal of Machine Learning Research (JMLR)_ 2020, accepted.
    [preprint](https://arxiv.org/abs/2008.00163).
    
 2. **“Multiplex graph matching matched filters”** 
-   Pantazis, K., Sussman, D.L., Park, Y. et al. Multiplex graph matching matched filters. Appl Netw Sci 7, 29 (2022).
+   Pantazis, K., Sussman, D.L., Park, Y. et al. Multiplex graph matching matched filters. Appl Netw Sci 7, 29 (2022)
    [journal](https://doi.org/10.1007/s41109-022-00464-0).
+   
    A shorter version of the paper appeared in _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
    
 3. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
