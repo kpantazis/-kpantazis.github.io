@@ -32,14 +32,17 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
-   Konstantinos Pantazis, Avanti Athreya, William N. Frost, Evan S. Hill, and Vince Lyzinski
-   _Journal of Machine Learning Research (JMLR)_ 2020, submitted.
+   Pantazis, K., Athreya, A., Frost, W.N., Hill, E.S., and Lyzinski, V.
+   _Journal of Machine Learning Research (JMLR)_ 2020, accepted.
    [preprint](https://arxiv.org/abs/2008.00163).
    
-4. **“Multiplex graph matching matched filters”** 
-   Konstantinos Pantazis, Daniel L. Sussman, Youngser Park, Zhirui Li, Carey E. Priebe, and Vince Lyzinski
-   _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
-   [preprint](https://arxiv.org/abs/1908.02572).
+2. **“Multiplex graph matching matched filters”** 
+   Pantazis, K., Sussman, D.L., Park, Y. et al. Multiplex graph matching matched filters. Appl Netw Sci 7, 29 (2022).
+   [journal](https://doi.org/10.1007/s41109-022-00464-0).
+   A shorter version of the paper appeared in _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
+   
+3. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
+   
    
 # Teaching 
 
