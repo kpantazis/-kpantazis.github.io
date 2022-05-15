@@ -32,7 +32,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
-   Pantazis, K., Athreya, A., Frost, W.N., Hill, E.S., and Lyzinski, V.
+   Pantazis, K., Athreya, A., Arroyo, J., Frost, W.N., Hill, E.S., and Lyzinski, V.
    _Journal of Machine Learning Research (JMLR)_ 2020, accepted.
    [preprint](https://arxiv.org/abs/2008.00163).
    
@@ -42,7 +42,8 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    A shorter version of the paper appeared in _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
    
 3. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
-   
+   Li, Z., Arroyo, J., Pantazis, K., and Lyzinski, V.
+   [preprint](https://arxiv.org/abs/2205.03486).
    
 # Teaching 
 
@@ -116,5 +117,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: January 21, 2022.
+© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: May 14, 2022.
 
