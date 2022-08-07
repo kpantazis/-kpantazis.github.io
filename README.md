@@ -10,15 +10,22 @@ I am a first year Postdoctoral Fellow in the [Department of Applied Mathematics 
 My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and Time series of networks.
 
 # About
+
+During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Anna Bertinger (E+D team) and Jonathan Larson (Microsoft Research).
+
+I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
+
 During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Jade Freeman.
 
-Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my current advisor Vince Lyzinski.
+Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my PhD advisor Vince Lyzinski.
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
  
 ### For more information, please check out my [CV](docs/CV_KP-converted.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196).
 
 # Conferences / Talks
+
+* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; CMStatistics 2022
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
  
 - **August 12, 2021**  &nbsp; &nbsp;  &nbsp; [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882). Virtual. [[Video presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
