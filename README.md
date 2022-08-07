@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.githu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
 
-I am a first year Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University, under the supervision of Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My PhD advisor was [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/), Associate Professor at the University of Maryland, College Park.
+I am a first year Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University. My faculty sponsor is Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My PhD advisor is [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/), Associate Professor at the University of Maryland, College Park.
 
-My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and High-dimensional Data Analysis.
+My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and Time series of networks.
 
 # About
 During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Jade Freeman.
@@ -33,8 +33,8 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
    Pantazis, K., Athreya, A., Arroyo, J., Frost, W.N., Hill, E.S., and Lyzinski, V.
-   _Journal of Machine Learning Research (JMLR)_ 2020, accepted.
-   [preprint](https://arxiv.org/abs/2008.00163).
+   _Journal of Machine Learning Research (JMLR)_ 23(141):1−77, 2022.
+   [journal](https://www.jmlr.org/papers/v23/20-944.html).
    
 2. **“Multiplex graph matching matched filters”** 
    Pantazis, K., Sussman, D.L., Park, Y. et al. Multiplex graph matching matched filters. Appl Netw Sci 7, 29 (2022)
@@ -49,6 +49,10 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 # Teaching 
 
 ## Discussion Sections (TA instructor)
+
+### Johns Hopkins University
+
+- Probability and Statistics for the Biological Sciences and Engineering (EN.553.311), Fall 2022
 
 ### University of Maryland College Park
 
@@ -70,7 +74,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022 (TBA)** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks)
+* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks)
 
     Aim attention at modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
@@ -83,7 +87,9 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 ### Volunteering
 - I am a probationary / associate member of the [Hyattsville Volunteer Fire Department, Inc](https://hvfd.com/) since October 2021.
 
-- I am an active member of [Potomac Appalachian Trail Club](https://www.patc.net/) since 2020. During Spring 2021, I was a crew member for trail maintenance at [Sugarloaf Mountain, MD](https://sugarloafmd.com/). I am excited for Spring 2022 too.
+- I am a platelet donor at American Red Cross [Consider Platelet Donation](https://www.redcrossblood.org/giveplatelets.html)
+
+- I am an active member of [Potomac Appalachian Trail Club](https://www.patc.net/) since 2020. During Spring 2021, I was a crew member for trail maintenance at [Sugarloaf Mountain, MD](https://sugarloafmd.com/).
 
 ### Well-being activities
  
