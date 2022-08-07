@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.githu
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
 
-I am a final year PhD candidate in the [Department of Mathematics](https://www-math.umd.edu/) at the University of Maryland College Park, under the supervision of Associate Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/).
+I am a first year Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University, under the supervision of Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My PhD advisor is [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/), Associate Professor at the University of Maryland, College Park.
 
 My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and High-dimensional Data Analysis.
 
