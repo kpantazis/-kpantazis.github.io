@@ -55,11 +55,13 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    
 # Teaching 
 
-## Discussion Sections (TA instructor)
+## Course instructor
 
 ### Johns Hopkins University
 
 - Probability and Statistics for the Biological Sciences and Engineering (EN.553.311), Fall 2022
+
+## Discussion Sections (TA instructor)
 
 ### University of Maryland College Park
 
@@ -131,5 +133,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: May 14, 2022.
+© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: August 8, 2022.
 
