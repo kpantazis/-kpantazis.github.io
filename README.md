@@ -25,7 +25,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Conferences / Talks
 
-* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [[CMStatistics 2022]](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual.
+* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual.
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
  
 - **August 12, 2021**  &nbsp; &nbsp;  &nbsp; [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882). Virtual. [[Video presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
