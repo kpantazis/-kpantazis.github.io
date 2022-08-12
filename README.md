@@ -11,7 +11,7 @@ My research areas of interest include Multiscale Statistical Network Inference, 
 
 # About
 
-During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson ([Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) team).
+During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson ([Microsoft Research team])(https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/).
 
 I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
 
