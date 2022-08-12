@@ -7,15 +7,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 I am a first year Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University. My faculty sponsor is Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My PhD advisor is [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/), Associate Professor at the University of Maryland, College Park.
 
-My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and Time series of networks.
+My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and Time Series of Networks.
 
 # About
 
-During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Anna Bertinger (E+D team) and Jonathan Larson (Microsoft Research).
+During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft ([LinkedIn announcement](https://www.linkedin.com/jobs/view/research-intern-graph-matching-at-microsoft-3073489771/). My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson (Microsoft Research (MSR) team).
 
 I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
 
-During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Jade Freeman.
+During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
 
 Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my PhD advisor Vince Lyzinski.
 
