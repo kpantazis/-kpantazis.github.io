@@ -11,7 +11,7 @@ My research areas of interest include Multiscale Statistical Network Inference, 
 
 # About
 
-During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft ([LinkedIn announcement](https://www.linkedin.com/jobs/view/research-intern-graph-matching-at-microsoft-3073489771/)). My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson (Microsoft Research (MSR) team).
+During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft [[LinkedIn announcement]](https://www.linkedin.com/jobs/view/research-intern-graph-matching-at-microsoft-3073489771/). My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson (Microsoft Research (MSR) team).
 
 I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
 
@@ -33,7 +33,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 - **August 12, 2021**   &nbsp; &nbsp; DEVCOM ARL Summer Student Symposium. Virtual.
   [[Poster]](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
 
-- **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference ([Networks 2021](http://networks2021.net)). Virtual.
+- **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference [[Networks 2021]](http://networks2021.net). Virtual.
 
 # Papers
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
