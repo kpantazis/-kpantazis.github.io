@@ -15,7 +15,7 @@ During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft [[Linke
 
 I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
 
-During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
+During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate [[CISD]](https://www.arl.army.mil/who-we-are/directorates/cisd/), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
 
 Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my PhD advisor Vince Lyzinski.
 
@@ -25,7 +25,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Conferences / Talks
 
-* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics ([CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php)). Virtual.
+* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [[CMStatistics 2022]](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual.
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
  
 - **August 12, 2021**  &nbsp; &nbsp;  &nbsp; [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882). Virtual. [[Video presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
