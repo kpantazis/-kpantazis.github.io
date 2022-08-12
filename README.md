@@ -33,7 +33,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 - **August 12, 2021**   &nbsp; &nbsp; DEVCOM ARL Summer Student Symposium. Virtual.
   [[Poster]](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
 
-- **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference [[Networks 2021]](http://networks2021.net). Virtual.
+- **July 10, 2021**  &nbsp; &nbsp;[NETWORKS 2021](http://networks2021.net): A Joint Sunbelt and NetSci Conference. Virtual.
 
 # Papers
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
