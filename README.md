@@ -25,7 +25,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Conferences / Talks
 
-* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; CMStatistics 2022
+* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics ([CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php)). Virtual.
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
  
 - **August 12, 2021**  &nbsp; &nbsp;  &nbsp; [2021 Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2021/onlineprogram/AbstractDetails.cfm?abstractid=317882). Virtual. [[Video presentation]](docs/JSM2021/JSM_2021_KP-GenOMNI.mp4)
@@ -33,7 +33,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 - **August 12, 2021**   &nbsp; &nbsp; DEVCOM ARL Summer Student Symposium. Virtual.
   [[Poster]](docs/ARL_Poster_Symposium_2021_KonstantinosPantazis.pdf)
 
-- **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference. Virtual.
+- **July 10, 2021**  &nbsp; &nbsp; NETWORKS 2021: A Joint Sunbelt and NetSci Conference ([Networks 2021](http://networks2021.net)). Virtual.
 
 # Papers
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
@@ -133,5 +133,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: August 8, 2022.
+© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: August 12, 2022.
 
