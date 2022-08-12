@@ -15,7 +15,7 @@ During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My sup
 
 I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
 
-During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate [[CISD]](https://www.arl.army.mil/who-we-are/directorates/cisd/), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
+During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
 
 Since 2019, I am interested in the statistical analysis of joint spectral embedding methods for multiple networks. From 2017 to 2019, I was a PhD student at [UMASS](https://www.math.umass.edu/) and worked in graph matching problems with my PhD advisor Vince Lyzinski.
 
