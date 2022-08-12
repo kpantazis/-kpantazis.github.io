@@ -11,7 +11,7 @@ My research areas of interest include Multiscale Statistical Network Inference, 
 
 # About
 
-During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft [[LinkedIn announcement]](https://www.linkedin.com/jobs/view/research-intern-graph-matching-at-microsoft-3073489771/). My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson (Microsoft Research (MSR) team).
+During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson ([Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/) team).
 
 I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
 
@@ -83,7 +83,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Internships
 
-* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks)
+* **Summer 2022** &nbsp; &nbsp;  <u> Research Intern: Graph Matching (Microsoft) <u>  &nbsp; (12 weeks) [[LinkedIn announcement]](https://www.linkedin.com/jobs/view/research-intern-graph-matching-at-microsoft-3073489771/)
 
     Aim attention at modeling security incidents via graphs and applying modern machine learning and graph theoretic methods toward building interactive systems.
 
