@@ -56,7 +56,9 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    Li, Z., Arroyo, J., Pantazis, K., and Lyzinski, V.
    [preprint](https://arxiv.org/abs/2205.03486).
  
-## Reviewer in Journal of Machine Learning Research (JMLR) and Knowledge-based Systems (KBS) journals
+### Reviewer
+1. Journal of Machine Learning Research (JMLR) 
+2. Knowledge-based Systems (KBS)
 
 # Teaching 
 
