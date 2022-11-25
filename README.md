@@ -142,5 +142,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: August 12, 2022.
+© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: November 25, 2022.
 
