@@ -27,7 +27,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 * **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual.
 
-* **November 28 - December 1, 2022** &nbsp; &nbsp; NeurIPS 2022: Thirty-sixth Conference on Neural Information Processing Systems [NIPS2022](https://nips.cc/). In-person.
+* **November 28 - December 1, 2022** &nbsp; &nbsp; NeurIPS 2022: Thirty-sixth Conference on Neural Information Processing Systems [NIPS2022](https://nips.cc/). In-person. [[Poster Session]](docs/NIPS2022genOMNI.pdf)
 
 * **December 10, 2021** &nbsp; &nbsp; Talk at National & Kapodistrian University of Athens. In-person. [[Announcement]](https://www.math.uoa.gr/anakoinoseis_kai_ekdiloseis/proboli_anakoinosis/seminario_statistikis_kai_epicheirisiakis_ereynas_k_pantazis/)
  
