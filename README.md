@@ -25,7 +25,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 
 # Conferences / Talks
 
-* **December 17-19, 2022 (Upcoming)** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual.
+* **December 17-19, 2022** &nbsp; &nbsp; 15th International Conference of the ERCIM WG on Computational and Methodological Statistics [CMStatistics 2022](http://www.cmstatistics.org/CMStatistics2022/submission.php). Virtual.
 
 * **November 28 - December 1, 2022** &nbsp; &nbsp; NeurIPS 2022: Thirty-sixth Conference on Neural Information Processing Systems [NIPS2022](https://nips.cc/). In-person. [[Poster Session]](docs/NIPS2022genOMNI.pdf)
 
@@ -142,5 +142,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: November 25, 2022.
+© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: December 17, 2022.
 
