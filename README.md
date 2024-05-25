@@ -3,7 +3,9 @@
 You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
-Driven by a passion to translate complex data into actionable insights, I leverage my academic background in machine learning, statistics, and network analysis.  My expertise allows me to tackle challenging data-driven problems, from building robust machine learning models to uncovering hidden patterns in real-world datasets. I'm eager to continuously learning and make a real-world impact.
+Driven by a passion to translate complex data into actionable insights, I leverage my academic background in machine learning, statistics, and network analysis.
+
+My expertise allows me to tackle challenging data-driven problems, from building robust machine learning models to uncovering hidden patterns in real-world datasets. I'm eager to continuously learning and make a real-world impact.
 
 # About
 
@@ -20,7 +22,7 @@ Since 2019, I am interested in the statistical analysis of joint spectral embedd
 
 I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian University of Athens](https://www.math.uoa.gr/), Greece.
  
-### For more information, please check out my [CV](docs/CV_KP.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196).
+### For more information, please check out my [industry CV](docs/cv_kp.pdf)  and/or my [academic CV](docs/CV_KP.pdf). Also, connect with me on [LinkedIn](https://linkedin.com/in/konstantinos-pantazis-590748196).
 
 # Conferences / Talks
 
