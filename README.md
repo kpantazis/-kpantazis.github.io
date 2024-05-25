@@ -3,17 +3,16 @@
 You can use the [editor on GitHub](https://github.com/kpantazis/-kpantazis.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
-
-
-I am a first year Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University. My faculty sponsor is Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My PhD advisor is [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/), Associate Professor at the University of Maryland, College Park.
-
-My research areas of interest include Multiscale Statistical Network Inference, Multiple Graph Matching and Time Series of Networks.
+Driven by a passion to translate complex data into actionable insights, I leverage my academic background in machine learning, statistics, and network analysis.  My expertise allows me to tackle challenging data-driven problems, from building robust machine learning models to uncovering hidden patterns in real-world datasets. I'm eager to continuously learning and make a real-world impact.
 
 # About
 
+During 2022-2023, I was a Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University. 
+My faculty sponsor was Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My research areas of interest included Multiscale Statistical Network Inference, Multiple Graph Matching and Time Series of Networks.
+
 During Summer 2022, I was a Joint E+D & MSR research intern at Microsoft. My supervisors were Dr. Anna Bertinger (E+D team) and Dr. Jonathan Larson ([Microsoft Research team](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/)).
 
-I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022.
+I received my PhD diploma from the Department of Mathematics & Statistics, University of Maryland, College Park on May 2022 under the supervision of Associate Professor [Vince Lyzinski](https://www.math.umd.edu/~vlyzinsk/).
 
 During Summer 2021, I was a research intern at the Computational and Information Sciences Directorate ([CISD](https://www.arl.army.mil/who-we-are/directorates/cisd/)), DEVCOM Army Research Laboratory supervised by Dr. Jade Freeman.
 
@@ -47,14 +46,16 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
    [journal](https://www.jmlr.org/papers/v23/20-944.html).
    
 2. **“Multiplex graph matching matched filters”** 
-   Pantazis, K., Sussman, D.L., Park, Y. et al. Multiplex graph matching matched filters. Appl Netw Sci 7, 29 (2022)
+   Pantazis, K., Sussman, D.L., Park, Y. et al.
+   _Applied Network Science 7, 29 (2022)
    [journal](https://doi.org/10.1007/s41109-022-00464-0).
    
    - A shorter version of the paper appeared in _GTA³ 3.0: The 3rd workshop on Graph Techniques for Adversarial Activity Analytics_, 2019.
    
-3. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
+4. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
    Li, Z., Arroyo, J., Pantazis, K., and Lyzinski, V.
-   [preprint](https://arxiv.org/abs/2205.03486).
+   _IEEE Transactions on Network Science and Engineering (2023)
+   [journal]([https://arxiv.org/abs/2205.03486](https://ieeexplore.ieee.org/document/10091478).
  
 ## Reviewer
 1. Journal of Machine Learning Research (JMLR) 
@@ -142,5 +143,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-© Copyright 2022 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: December 17, 2022.
+© Copyright 2024 Konstantinos Pantazis. Powered by [Jekyll](http://jekyllrb.com/) with [minimal](https://github.com/pages-themes/minimal) theme. Hosted by [GitHub Pages](https://pages.github.com/). Last updated: May 25, 2024.
 
