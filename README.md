@@ -9,6 +9,8 @@ My expertise allows me to tackle challenging data-driven problems, from building
 
 # About
 
+Since September 2024, I have been serving as a Data Scientist at [Deus Ex Machina](https://ekmechanes.com/) specializing in applications within the life sciences sector. My role focuses on leveraging advanced data analytics and machine learning methodologies to address critical challenges in healthcare and biotechnology, with the goal of driving innovation and delivering data-driven solutions.
+
 During 2022-2023, I was a Postdoctoral Fellow in the [Department of Applied Mathematics & Statistics (AMS)](https://engineering.jhu.edu/ams/) at the Whiting School of Engineering, Johns Hopkins University. 
 My faculty sponsor was Professor [Carey Priebe](https://www.ams.jhu.edu/~priebe/). My research areas of interest included Multiscale Statistical Network Inference, Multiple Graph Matching and Time Series of Networks.
 
@@ -43,7 +45,7 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 ### For a full list of articles, please check my [Google Scholar](https://scholar.google.com/citations?user=PYunIWYAAAAJ&hl=en) and/or [ResearchGate](https://www.researchgate.net/profile/Konstantinos-Pantazis-5).
 
 1. **“The Importance of Being Correlated: Implications of Dependence in Joint Spectral Inference across Multiple Networks”**
-   Pantazis, K., Athreya, A., Arroyo, J., Frost, W.N., Hill, E.S., and Lyzinski, V.
+   Pantazis, K., Athreya, A., Arroyo, J., Frost, W. N., Hill, E. S., and Lyzinski, V.
    _Journal of Machine Learning Research (JMLR)_ 23(141):1−77, 2022.
    [journal](https://www.jmlr.org/papers/v23/20-944.html).
    
@@ -57,8 +59,12 @@ I received a B.Sc. in Applied Mathematics from the [National & Kapodistrian Univ
 4. **“Clustered Graph Matching for Label Recovery and Graph Classification"**
    Li, Z., Arroyo, J., Pantazis, K., and Lyzinski, V.
    _IEEE Transactions on Network Science and Engineering (2023)
-   [journal]([https://arxiv.org/abs/2205.03486](https://ieeexplore.ieee.org/document/10091478).
- 
+   [journal](https://ieeexplore.ieee.org/document/10091478).
+
+5. **“Optimizing the Induced Correlation in Omnibus Joint Graph Embeddings"**
+   Pantazis, K., Trosset, M., Frost, W. N., Priebe, C. E., Lyzinski, V. (2024)
+   [arxiv](https://arxiv.org/abs/2409.17544).
+   
 ## Reviewer
 1. Journal of Machine Learning Research (JMLR) 
 2. Knowledge-based Systems (KBS)
